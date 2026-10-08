@@ -13,10 +13,13 @@ I build financial models, dashboards, and data-driven analyses focused on invest
 
 ## 📁 Featured Projects
 
+### 📑 [FP&A Budget vs. Actual and Rolling Forecast Model](https://github.com/tarunikomma/fpa-budget-vs-actual-forecast)
+
+Driver-based 12-month budget, month-end variance analysis and 9+3 rolling forecast for a fictional $23M consumer goods company. Includes price/volume/mix analysis, an EBITDA bridge, variance commentary and a management dashboard. Built in Excel.
+
 ### 📊 Portfolio Risk & Return Analysis
 
 Constructed a diversified portfolio and evaluated risk-adjusted performance using return, volatility, beta, and Sharpe ratio. Built in Excel & R.
-
 ### 💹 DCF Valuation Model
 
 Full discounted cash flow model with WACC assumptions, projected free cash flows, and sensitivity analysis on growth rates and discount rates.
