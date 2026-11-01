@@ -1,11 +1,11 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b3fa37b6-5575-4582-98e4-ed67d80f82b5" /># Hi, I'm Taruni Komma 👋
+# Hi, I'm Taruni Komma 👋
 
 **M.S. in Quantitative Finance, UMass Dartmouth (December 2026)**. I'm looking for full-time roles in **FP&A**, **credit & risk**, and **investment banking / valuation**.
 
 I build financial models from real company filings and market data, and every project here ends in a clear recommendation, not just a spreadsheet.
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4e6fa829-21d5-4341-a7d8-35faf8f801f8" /> tkomma@umassd.edu ·  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0859332f-afff-4835-a6db-c0a5cba6f8db" />
-[LinkedIn](https://www.linkedin.com/in/taruni-komma)
+tkomma@umassd.edu ·<img width="20" height="20" alt="linkedin" src="https://github.com/user-attachments/assets/71d92417-ec44-4fc6-ac40-554bdea8ce82" />
+[Taruni Komma](https://www.linkedin.com/in/taruni-komma)
 
 ---
 
